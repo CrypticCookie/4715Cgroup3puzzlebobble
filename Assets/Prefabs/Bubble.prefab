@@ -138,4 +138,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Cannon: {fileID: 5374680981277565983, guid: d603c86c0f251ad4d9cef19ce792835f, type: 3}
   active: 1
-  lossSprite: {fileID: -2105302008, guid: 61cfa6222eaac8d4cb78acf55d676f49, type: 3}
+  lossSprite: {fileID: -1146985806, guid: 61cfa6222eaac8d4cb78acf55d676f49, type: 3}

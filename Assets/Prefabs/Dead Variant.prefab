@@ -52,9 +52,17 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6305876621431725966, guid: d757572396beef740b35bbc3c93d4ce1, type: 3}
+      propertyPath: m_Size.x
+      value: 0.9302326
+      objectReference: {fileID: 0}
+    - target: {fileID: 6305876621431725966, guid: d757572396beef740b35bbc3c93d4ce1, type: 3}
+      propertyPath: m_Size.y
+      value: 0.9302326
+      objectReference: {fileID: 0}
+    - target: {fileID: 6305876621431725966, guid: d757572396beef740b35bbc3c93d4ce1, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -2105302008, guid: 61cfa6222eaac8d4cb78acf55d676f49, type: 3}
+      objectReference: {fileID: -1146985806, guid: 61cfa6222eaac8d4cb78acf55d676f49, type: 3}
     - target: {fileID: 6305876621431725966, guid: d757572396beef740b35bbc3c93d4ce1, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -69,7 +77,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6515178878403623062, guid: d757572396beef740b35bbc3c93d4ce1, type: 3}
       propertyPath: m_Name
-      value: Dead
+      value: Dead Variant
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d757572396beef740b35bbc3c93d4ce1, type: 3}
