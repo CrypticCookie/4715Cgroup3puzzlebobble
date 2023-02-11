@@ -17,7 +17,7 @@ Making Levels
   5a) The possible X coordinates on rows of 8 are -3.5, -2.5, -1.5, -0.5, 0.5, 1.5, 2.5, 3.5
   
 6) The bubbles furthest to the side on rows of 7 will be x = -3 and x = 3
-  6a) The possible Y coordinates on rows of 7 are -3, -2, -1, 0, 1, 2, 3
+  6a) The possible X coordinates on rows of 7 are -3, -2, -1, 0, 1, 2, 3
   
 7) Each bubble must be on a coordinate using specifications provided above
 
