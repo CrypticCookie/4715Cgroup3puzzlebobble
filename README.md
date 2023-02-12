@@ -21,4 +21,6 @@ Making Levels
   
 7) Each bubble must be on a coordinate using specifications provided above
 
-8) These steps MUST be followed to minimize chances of issues with the code!
+8) The prefab has a public bool "Active". It is set to "True" in the prefab. All starting bubbles MUST have Active set to "False" in the inspector
+
+9) These steps MUST be followed to minimize chances of issues with the code!
